@@ -200,12 +200,12 @@
         <trackTrending>false</trackTrending>
         <type>Date</type>
     </fields>
-	<fields>
-        <fullName>Test_Field__c</fullName>
+    <fields>
+        <fullName>Demo_Field__c</fullName>
         <externalId>false</externalId>
-        <label>Test Field</label>
+        <label>Demo Field</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Date</type>
-    </fields>
+    </fields>	
 </CustomObject>
